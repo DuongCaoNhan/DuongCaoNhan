@@ -8,7 +8,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="400px"/>
+        <img src="https://github.com/DuongCaoNhan/DuongCaoNhan/blob/main/web-development.gif" href="https://github.com/sp-xd" alt="Coding"  width="400px"/>
       </p>
     </td>
   </tr>

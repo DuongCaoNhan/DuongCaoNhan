@@ -3,7 +3,7 @@
     <td>
       <p align="center"> 
       <a href="https://github.com/DuongCaoNhan" title="DuongCaoNhan">
-        <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuongCaoNhan&hide=powershell,Mathematica,Ruby,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+        <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuongCaoNhan&hide=powershell,Mathematica,Ruby,Cuda,CSS&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
       </a>
     </td>
     <td>

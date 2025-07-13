@@ -29,7 +29,7 @@
   <a href="https://www.instagram.com/duongcaonhan" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
   </a>
-  <a href="mailto:duongcaonhan.dev@gmail.com" target="top">
+  <a href="mailto:nhan9495@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>

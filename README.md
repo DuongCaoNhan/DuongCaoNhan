@@ -2,7 +2,7 @@
   <div style="margin-bottom: 0; border: none !important;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=48&center=true&vCenter=true&width=700&height=70&duration=2500&pause=800&color=FFFFFF&cursor=false&lines=Code+the+future;Build+amazing+things;Create+innovative+solutions;Develop+with+passion;Engineer+tomorrow;Craft+digital+experiences;Transform+ideas+to+reality" alt="Typing SVG" />
   </div>
-  <div style="color: #E5E5E5; font-size: 3rem; font-weight: 600; margin-top: 15px; margin-bottom: 0; opacity: 0.8; text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important; text-align: center; font-family: 'Segoe UI', sans-serif;">
+  <div style="color: #E5E5E5 !important; font-size: 48px !important; font-weight: 600 !important; margin-top: 15px; margin-bottom: 0; opacity: 0.8; text-decoration: none !important; border: none !important; outline: none !important; box-shadow: none !important; text-align: center; font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif !important; line-height: 1.2 !important;">
     wherever you are
   </div>
 </div>

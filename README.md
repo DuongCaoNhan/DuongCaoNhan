@@ -60,13 +60,13 @@
 
 <br/>
 
-<div align="center" style="background: linear-gradient(135deg, rgba(15, 15, 15, 0.8) 0%, rgba(25, 25, 25, 0.7) 100%); padding: 20px; border-radius: 12px; backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.1); margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=DuongCaoNhan&color=white&style=flat-square&label=Profile+Views" />
+<div align="center" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=DuongCaoNhan&color=1a1a1a&style=for-the-badge&label=Profile+Views&labelColor=333333" />
 </div>
 
 <br/>
 
-<h3 style="color: #FFFFFF; font-family: 'Segoe UI', sans-serif; font-weight: 600; margin: 30px 0 20px 0;"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Where to find me </h3>
+<h3 style="color: #FFFFFF; font-family: 'Segoe UI', sans-serif; font-weight: 600; margin: 30px 0 20px 0;"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Where to find me</h3>
 
 <div align="center" style="background: linear-gradient(135deg, rgba(15, 15, 15, 0.8) 0%, rgba(25, 25, 25, 0.7) 100%); padding: 25px; border-radius: 12px; backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.1); margin: 20px 0;">
   <a href="https://www.facebook.com/duongcaonhan.official/" target="blank" style="margin: 0 10px; transition: transform 0.3s ease;">

@@ -29,12 +29,6 @@
 <br/>
 
 <div align="center" style="background: linear-gradient(135deg, rgba(15, 15, 15, 0.8) 0%, rgba(25, 25, 25, 0.7) 100%); padding: 20px; border-radius: 12px; backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.1); margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuongCaoNhan&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FFFFFF&text_color=E5E5E5&icon_color=FFFFFF" />
-</div>
-
-<br/>
-
-<div align="center" style="background: linear-gradient(135deg, rgba(15, 15, 15, 0.8) 0%, rgba(25, 25, 25, 0.7) 100%); padding: 20px; border-radius: 12px; backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.1); margin: 20px 0;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuongCaoNhan&theme=dark&hide_border=true&background=1a1a1a&ring=FFFFFF&fire=FFFFFF&currStreakLabel=E5E5E5" />
 </div>
 

@@ -1,9 +1,15 @@
 <div align="center">
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=48&center=true&vCenter=true&width=700&height=70&duration=2500&pause=800&color=FFFFFF&cursor=false&lines=Code+the+future;Build+amazing+things;Create+innovative+solutions;Develop+with+passion;Engineer+tomorrow;Craft+digital+experiences;Transform+ideas+to+reality" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=28&center=true&vCenter=true&width=350&height=50&duration=2500&pause=800&color=FFFFFF&cursor=false&lines=Code+the+future;Build+amazing+things;Create+solutions;Develop+with+passion;Engineer+tomorrow;Craft+experiences">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=48&center=true&vCenter=true&width=700&height=70&duration=2500&pause=800&color=FFFFFF&cursor=false&lines=Code+the+future;Build+amazing+things;Create+innovative+solutions;Develop+with+passion;Engineer+tomorrow;Craft+digital+experiences;Transform+ideas+to+reality" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    </picture>
   </div>
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=36&center=true&vCenter=true&width=300&height=50&duration=1&pause=999999&color=E5E5E5&lines=wherever+you+are" alt="wherever you are" style="max-width: 100%; height: auto;" />
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=24&center=true&vCenter=true&width=250&height=40&duration=1&pause=999999&color=E5E5E5&lines=wherever+you+are">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=36&center=true&vCenter=true&width=300&height=50&duration=1&pause=999999&color=E5E5E5&lines=wherever+you+are" alt="wherever you are" style="max-width: 100%; height: auto;" />
+    </picture>
   </div>
 </div>
 

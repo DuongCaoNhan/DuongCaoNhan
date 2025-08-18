@@ -1,9 +1,25 @@
-<div align="center" style="background: linear-gradient(135deg, rgba(15, 15, 15, 0.95) 0%, rgba(25, 25, 25, 0.9) 100%); padding: 40px 20px; border-radius: 16px; backdrop-filter: blur(10px); margin-bottom: 30px; border: none !important;">
+<style>
+@media (max-width: 768px) {
+  .mobile-header {
+    padding: 30px 10px !important;
+  }
+  .mobile-animation {
+    width: 90vw !important;
+    font-size: 36px !important;
+  }
+  .mobile-subtitle {
+    width: 80vw !important;
+    font-size: 32px !important;
+  }
+}
+</style>
+
+<div align="center" class="mobile-header" style="background: linear-gradient(135deg, rgba(15, 15, 15, 0.95) 0%, rgba(25, 25, 25, 0.9) 100%); padding: 40px 20px; border-radius: 16px; backdrop-filter: blur(10px); margin-bottom: 30px; border: none !important;">
   <div style="margin-bottom: 0; border: none !important;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=48&center=true&vCenter=true&width=700&height=70&duration=2500&pause=800&color=FFFFFF&cursor=false&lines=Code+the+future;Build+amazing+things;Create+innovative+solutions;Develop+with+passion;Engineer+tomorrow;Craft+digital+experiences;Transform+ideas+to+reality" alt="Typing SVG" />
+    <img class="mobile-animation" src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=48&center=true&vCenter=true&width=700&height=70&duration=2500&pause=800&color=FFFFFF&cursor=false&lines=Code+the+future;Build+amazing+things;Create+innovative+solutions;Develop+with+passion;Engineer+tomorrow;Craft+digital+experiences;Transform+ideas+to+reality" alt="Typing SVG" />
   </div>
   <div align="center" style="margin-top: 15px; margin-bottom: 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=48&center=true&vCenter=true&width=400&height=60&duration=1&pause=999999&color=E5E5E5&lines=wherever+you+are" alt="wherever you are" />
+    <img class="mobile-subtitle" src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=48&center=true&vCenter=true&width=400&height=60&duration=1&pause=999999&color=E5E5E5&lines=wherever+you+are" alt="wherever you are" />
   </div>
 </div>
 

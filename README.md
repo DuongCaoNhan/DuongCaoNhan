@@ -1,8 +1,8 @@
 <div align="center">
   <div align="center">
     <picture>
-      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=28&center=true&vCenter=true&width=350&height=50&duration=2500&pause=800&color=FFFFFF&cursor=false&lines=Code+the+future;Build+amazing+things;Create+solutions;Develop+with+passion;Engineer+tomorrow;Craft+experiences">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=48&center=true&vCenter=true&width=700&height=70&duration=2500&pause=800&color=FFFFFF&cursor=false&lines=Code+the+future;Build+amazing+things;Create+innovative+solutions;Develop+with+passion;Engineer+tomorrow;Craft+digital+experiences;Transform+ideas+to+reality" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=28&center=true&vCenter=true&width=350&height=50&duration=2500&pause=800&color=FFFFFF&cursor=false&lines=Dream+it,+build+it;Code+beyond+limits;Innovation+in+every+line;Create+with+heart,+code+with+soul;Engineering+dreams+into+reality;Wherever+you+code,+you+belong">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=48&center=true&vCenter=true&width=700&height=70&duration=2500&pause=800&color=FFFFFF&cursor=false&lines=Dream+it,+build+it;Code+beyond+limits;Innovation+in+every+line;Create+with+heart,+code+with+soul;Engineering+dreams+into+reality;Wherever+you+code,+you+belong" alt="Typing SVG" style="max-width: 100%; height: auto;" />
     </picture>
   </div>
   <div align="center">

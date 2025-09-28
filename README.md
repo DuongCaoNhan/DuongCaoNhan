@@ -1,17 +1,15 @@
-<!-- Desktop & Mobile version -->
 <div align="center">
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=36&center=true&vCenter=true&width=800&height=70&duration=3500&pause=1000&color=FFFFFF&cursor=false&lines=Create+with+heart,+code+with+soul;Small+steps+every+day+lead+to+big+results" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  <!-- Desktop version - thêm auto-centering cho SVG -->
+  <div align="center" style="display: flex; justify-content: center;">
+    <!-- Main animation -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=36&center=true&vCenter=true&width=800&height=70&duration=3500&pause=1000&color=FFFFFF&cursor=false&lines=Create+with+heart,+code+with+soul;Small+steps+every+day+lead+to+big+results" alt="Typing SVG" />
   </div>
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=32&center=true&vCenter=true&width=280&height=50&duration=1&pause=999999&color=E5E5E5&lines=wherever+you+are" alt="wherever you are" style="max-width: 100%; height: auto;" />
+  
+  <!-- Static text -->
+  <div align="center" style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=32&center=true&vCenter=true&width=280&height=50&duration=1&pause=999999&color=E5E5E5&lines=wherever+you+are" alt="wherever you are" />
   </div>
 </div>
-
-<!-- Text backup cho mobile nếu SVG không load -->
-<h1 align="center" hidden>Create with heart, code with soul</h1>
-<h2 align="center" hidden>Small steps every day lead to big results</h2>
-<h3 align="center" hidden>wherever you are</h3>
 
 <br/>
 

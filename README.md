@@ -1,19 +1,17 @@
+<!-- Desktop & Mobile version -->
 <div align="center">
   <div align="center">
-    <picture>
-      <!-- Mobile version: Một câu duy nhất, ngắn gọn nhất, không có animation -->
-      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=22&center=true&vCenter=true&width=240&height=40&duration=1&pause=999999&color=FFFFFF&cursor=false&lines=Small+step">
-      <!-- Desktop version: Giữ nguyên câu gốc -->
-      <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=36&center=true&vCenter=true&width=800&height=70&duration=3500&pause=1000&color=FFFFFF&cursor=false&lines=Create+with+heart,+code+with+soul;Small+steps+every+day+lead+to+big+results" alt="Typing SVG" style="max-width: 100%; height: auto;" />
-    </picture>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=36&center=true&vCenter=true&width=800&height=70&duration=3500&pause=1000&color=FFFFFF&cursor=false&lines=Create+with+heart,+code+with+soul;Small+steps+every+day+lead+to+big+results" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </div>
   <div align="center">
-    <picture>
-      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=18&center=true&vCenter=true&width=180&height=30&duration=1&pause=999999&color=E5E5E5&lines=wherever+you+are">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=32&center=true&vCenter=true&width=280&height=50&duration=1&pause=999999&color=E5E5E5&lines=wherever+you+are" alt="wherever you are" style="max-width: 100%; height: auto;" />
-    </picture>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=32&center=true&vCenter=true&width=280&height=50&duration=1&pause=999999&color=E5E5E5&lines=wherever+you+are" alt="wherever you are" style="max-width: 100%; height: auto;" />
   </div>
 </div>
+
+<!-- Text backup cho mobile nếu SVG không load -->
+<h1 align="center" hidden>Create with heart, code with soul</h1>
+<h2 align="center" hidden>Small steps every day lead to big results</h2>
+<h3 align="center" hidden>wherever you are</h3>
 
 <br/>
 

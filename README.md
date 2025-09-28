@@ -1,9 +1,9 @@
 <div align="center">
   <div align="center">
     <picture>
-      <!-- Mobile version: Sử dụng các câu ngắn hơn để tránh bị cắt -->
-      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=18&center=true&vCenter=true&width=300&height=40&duration=3500&pause=1000&color=FFFFFF&cursor=false&lines=Create+with+heart;Code+with+soul;Small+step,+big+result">
-      <!-- Desktop version: Giữ nguyên câu gốc, tăng width -->
+      <!-- Mobile version: Tăng width và giảm font size để hiển thị đầy đủ -->
+      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=14&center=true&vCenter=true&width=440&height=30&duration=3500&pause=1000&color=FFFFFF&cursor=false&lines=Create+with+heart;Code+with+soul;Small+step,+big+result">
+      <!-- Desktop version: Giữ nguyên câu gốc -->
       <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=36&center=true&vCenter=true&width=800&height=70&duration=3500&pause=1000&color=FFFFFF&cursor=false&lines=Create+with+heart,+code+with+soul;Small+steps+every+day+lead+to+big+results" alt="Typing SVG" style="max-width: 100%; height: auto;" />
     </picture>
   </div>

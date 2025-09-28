@@ -1,8 +1,8 @@
 <div align="center">
   <div align="center">
     <picture>
-      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=22&center=true&vCenter=true&width=300&height=50&duration=3500&pause=1000&color=FFFFFF&cursor=false&lines=Create+with+heart,+code+with+soul;Small+steps+every+day+lead+to+big+results">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=42&center=true&vCenter=true&width=650&height=70&duration=3500&pause=1000&color=FFFFFF&cursor=false&lines=Create+with+heart,+code+with+soul;Small+steps+every+day+lead+to+big+results" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=18&center=true&vCenter=true&width=380&height=45&duration=3500&pause=1000&color=FFFFFF&cursor=false&lines=Create+with+heart,+code+with+soul;Small+steps+every+day+lead+to+big+results">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=36&center=true&vCenter=true&width=800&height=70&duration=3500&pause=1000&color=FFFFFF&cursor=false&lines=Create+with+heart,+code+with+soul;Small+steps+every+day+lead+to+big+results" alt="Typing SVG" style="max-width: 100%; height: auto;" />
     </picture>
   </div>
   <div align="center">

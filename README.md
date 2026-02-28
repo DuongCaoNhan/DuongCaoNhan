@@ -18,7 +18,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/DuongCaoNhan">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuongCaoNhan&hide=Mathematica,Cuda&title_color=FFFFFF&text_color=E5E5E5&icon_color=FFFFFF&bg_color=1a1a1a&langs_count=8&layout=compact&border_color=333333&hide_border=true" style="max-width: 100%; height: auto;" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DuongCaoNhan&hide=Mathematica,Cuda&title_color=FFFFFF&text_color=E5E5E5&icon_color=FFFFFF&bg_color=1a1a1a&langs_count=8&layout=compact&border_color=333333&hide_border=true" />
         </a>
       </td>
       <td align="center">
